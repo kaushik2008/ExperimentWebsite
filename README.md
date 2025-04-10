@@ -1,4 +1,4 @@
-# Kaushik Chan - Portfolio Website
+# Kaushik - Portfolio Website
 
 A personal portfolio website showcasing my experience in robotics, AI, and software development.
 
